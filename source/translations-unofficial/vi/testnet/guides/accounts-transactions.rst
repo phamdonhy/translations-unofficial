@@ -2,9 +2,9 @@
 
 .. guide-tài khoản-giao dịch:
 
-====================================================
+================================================== =======
 ID Concordium: Bắt đầu với tài khoản và giao dịch
-====================================================
+================================================== =======
 .. contents::
    :local:
    :backlinks: none
@@ -17,7 +17,7 @@ Trước khi tìm hiểu cách tạo tài khoản, số dư và giao dịch củ
  trang *Accounts*. Ở góc trên bên phải, bạn sẽ thấy một **plus sign**. Nhấn vào đó để tiếp tục. Trên màn hình tiếp theo
 bạn sẽ được yêu cầu đặt tên cho tài khoản mới của mình. Trong ví dụ này, chúng tôi sẽ chọn tên *Example Account 2*, nhưng bạn có thể
 chọn bất kỳ tên nào bạn muốn.
-.. image:: Concordium/translations-unofficial/source/testnet/guides/images/concordium-id/acc1.png
+.. image:: images/concordium-id/acc1.png
       :width: 32%
 .. image:: images/concordium-id/acc2.png
       :width: 32%
